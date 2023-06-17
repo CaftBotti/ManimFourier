@@ -71,6 +71,7 @@
 #         'wait_before_start': 3
 #     }
 
+from manimlib.imports import *
 
 
 class FourierCirclesScene(ZoomedScene):
